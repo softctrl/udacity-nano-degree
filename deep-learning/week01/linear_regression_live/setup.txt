@@ -1,0 +1,2 @@
+a) conda create -n lvl2 python=2
+b) source activate lvl2
